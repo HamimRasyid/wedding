@@ -82,13 +82,13 @@ body {
   html {
     font-size: 55%;
   }
-  .simply-countdown > .simply-section {
-    padding: 45px;
-    margin: 3px;
-  }
   .hiro::before {
     background-image: url(img/bada1.jpg);
     object-fit: cover;
     object-position: center;
+  }
+  .simply-countdown > .simply-section {
+    padding: 45px;
+    margin: 3px;
   }
 }
